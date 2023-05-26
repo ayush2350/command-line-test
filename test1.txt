@@ -1,0 +1,5 @@
+1. Which of these is a fruit?,[a] Apple,[b] Onion,[c] Tomato,ans=[a]
+2. Which of these is not animal?,[a] Dog,[b] Cat,[c] Pigeon,ans=[c]
+3. Which of these is a colour?,[a] Human,[b] Cat,[c] Black,ans=[c]
+4. Which of the following is a flower?,[a] Me,[b] Rose,[c] Us,ans=[b]
+5. What of these is a country?,[a] Delhi,[b] Texas,[c] Brazil,ans=[c]
