@@ -52,3 +52,7 @@ Provides a prompt for the user to:
 * This function prompts the user for all the stored test logs for the signed-in user
 * User can choose and view the test-log of his choice
 
+
+## Funcionalities Yet To Be Enhanced:
+* Check on password that it should be atleast 8 chars with atleast a capital letter and a special symbol
+* In the log file, the answer input by the user should be printed/highlighted in green or red based upon the correctness of the answer
