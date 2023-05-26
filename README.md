@@ -4,6 +4,9 @@ test on shell and can view the test logs as well.
 
 The question bank should be given by the user at the time of running the script.
 
+SAMPLE QUESTION BANK : test1.txt
+MAIN SCRIPT FILE     : main.sh
+
 ## Functions Implemented
 
 Project has been implemented  using n functions:
